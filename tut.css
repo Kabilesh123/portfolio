@@ -1,0 +1,101 @@
+*{
+    background-color: rgb(47, 47, 107);
+}
+.l{
+    font-family: "Epunda Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: red;
+  position: relative;
+  left: 70px;
+  
+}
+.logo,li,ul{
+    display: flex;
+    gap: 20px;
+    
+
+}
+ul{
+    position: relative;
+    left: 690px;
+    top: 20px;
+}
+li{
+  color: azure;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+.wel{
+
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 70px;
+}
+.hole{
+    display: flex;
+ position: relative;
+ 
+}
+.log{
+    position: relative;
+    left: 350px;
+
+}
+.l1{
+     font-family: "Epunda Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: weight   ;
+  font-style: normal;
+  color: azure;
+}
+h3{
+color: red;
+}
+.hole2{
+    display: flex;
+    margin-top: 100px;
+}
+.wel2{
+    margin-left: 150px;
+    color:azure;
+}
+.log1{
+    
+margin-left: 200px;
+}
+button{
+    margin-top: 20px;
+    color: azure;
+    background-color: red;
+}
+.p1{
+    color: azure;
+}
+.fa-instagram{
+    border: 2px solid red;
+    border-radius: 200px ;
+    color: red;
+    padding: 5px;
+
+}
+.fa-facebook{
+ border: 2px solid red;
+    border-radius: 200px ;
+    color: red;
+    padding: 5px;
+}
+.fa-x-twitter{
+     border: 2px solid red;
+    border-radius: 200px ;
+    color: red;
+    padding: 5px;
+}
+
+.fa-linkedin{
+     border: 2px solid red;
+    border-radius: 200px ;
+    color: red;
+    padding: 5px;
+}
